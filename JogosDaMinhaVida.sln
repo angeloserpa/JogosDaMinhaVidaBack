@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMV.WebApi", "JMV.WebApi\JMV.WebApi.csproj", "{D8F84C11-9A34-4EC4-81B2-5F8950C1301B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMV.Infra.Data", "JMV.Infra.Data\JMV.Infra.Data.csproj", "{5E7574F6-81F5-4552-BDF5-E746CF542D40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8F84C11-9A34-4EC4-81B2-5F8950C1301B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F84C11-9A34-4EC4-81B2-5F8950C1301B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F84C11-9A34-4EC4-81B2-5F8950C1301B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F84C11-9A34-4EC4-81B2-5F8950C1301B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7574F6-81F5-4552-BDF5-E746CF542D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7574F6-81F5-4552-BDF5-E746CF542D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7574F6-81F5-4552-BDF5-E746CF542D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7574F6-81F5-4552-BDF5-E746CF542D40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B706F674-36C4-4A90-907D-5B1073B315D9}
+	EndGlobalSection
+EndGlobal
